@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="action_reset">Reset</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_double_player">double_player</string>
+    <string name="backHome">Home</string>
+    <string name="title_activity_device">device</string>
+</resources>
